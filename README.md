@@ -59,7 +59,6 @@ $ npm run start:dev
 This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
-- [Vue.js](https://vuejs.org/)
 - [Express.js](https://expressjs.com/)
 - [Sequelize](https://sequelize.org/)
 
